@@ -1,0 +1,23 @@
+palavras_dicas = [
+  'Uma fruta com coroa',
+  'Com uma pessoa fala bobagem falamos o que?',
+  'No mar tem muito e no rio tb',
+  'Bom de assar na fogueira',
+  'Vem do liquido da vaca',
+  'Um filme com morto andando',
+  'Entende códigos',
+  'Rato em ingles',
+  'Keyboard em portugues',
+  'Onde chega energia eletrica',
+  'Onde vc está vendo isso?',
+  'Neymar gosta de chutar',
+  'Usamos muito em reuniao',
+  'Ficamos mais inteligente lendo ...',
+  'Qdo queremos ouvir musica ruim usamos...',
+  'Qdo queremos ligar para alguem, usamos ...',
+  'As mulheres adoram receber',
+  'Conseguimos tirar foto com',
+  'Qdo precisamos de ajuda',
+  'Spartacus',
+  'É importante afiar o machado'
+]

@@ -1,15 +1,20 @@
 #importar módulos
 from palavras import palavras
+from palavras_dicas import palavras_dicas
 import random
 
-#Seleciona a palavra
+# Modificado aqui para decidir apenas o index do array
+# como palavras e palavras_dicas possuem o mesmo tamanho (vetores paralelos)
+# uma vez decidido o index, a gente consegue depois referenciar eles no jogar()
 def selecionar_palavra():
-    palavra=random.choice(palavras)
-    return palavra.upper()
+    return random.randint(1, len(palavras))
 
 #Iniciar o jogo
-def jogar(palavra):
+def jogar(palavraIndex):
     #Definir algumas variãveis
+    palavra = palavras[palavraIndex]
+    palavraDica = palavras_dicas[palavraIndex]
+
     palavra_a_completar="_" * len(palavra) # _ _ _     
     advinhou=False
     letras_utilizadas=[]
@@ -20,6 +25,7 @@ def jogar(palavra):
     print("Vamos jogar!")
     print(exibir_forca(tentativas))
     print("esta é a palavra: %s" %palavra_a_completar)
+    print("Dica: " + palavraDica)
     
     #Enquanto o usuário não adivinhar e ainda houver tentativas
     while not advinhou and tentativas>0:
@@ -59,7 +65,7 @@ def jogar(palavra):
                     
         #Tentativa de palavra completa
         #Quando o usuário tenta advinhar a palavra toda da forca
-        elif len(tentativa == len(palavra) and tentativa.isalpha()):
+        elif len(tentativa) == len(palavra) and tentativa.isalpha():
             
             # Palavra já utilizada
             if tentativa in palavras_utilizadas:
@@ -166,11 +172,10 @@ def exibir_forca(tentativas):
 
 # Iniciação do jogo e continuar jogando
 def iniciar():
-    palavra=selecionar_palavra()
-    jogar(palavra)
+    jogar(selecionar_palavra())
+
     #Quando acaba o jogo, verifica se o usuário quer continuar jogando
     while input("Jogar novamente? (S/N)").upper() == "S":
-        palavra=selecionar_palavra()
-        jogar(palavra)
+        jogar(selecionar_palavra())
     
 iniciar()
