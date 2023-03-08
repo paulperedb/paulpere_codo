@@ -10,7 +10,7 @@ def selecionar_palavra():
 #Iniciar o jogo
 def jogar(palavra):
     #Definir algumas variãveis
-    palavra_a_completar="_" * len(palavra) # _ _ _     
+    palavra_a_completar="_" * len(palavra) # _ _ _ _ _ _    
     advinhou=False
     letras_utilizadas=[]
     palavras_utilizadas=[]
