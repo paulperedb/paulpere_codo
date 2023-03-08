@@ -1,0 +1,5 @@
+C:\dados\git\paulpere_codo1\paulpere_codo\Logica_oper\ex03\obj\Debug\net6.0\ex03.csproj.AssemblyReference.cache
+C:\dados\git\paulpere_codo1\paulpere_codo\Logica_oper\ex03\obj\Debug\net6.0\ex03.GeneratedMSBuildEditorConfig.editorconfig
+C:\dados\git\paulpere_codo1\paulpere_codo\Logica_oper\ex03\obj\Debug\net6.0\ex03.AssemblyInfoInputs.cache
+C:\dados\git\paulpere_codo1\paulpere_codo\Logica_oper\ex03\obj\Debug\net6.0\ex03.AssemblyInfo.cs
+C:\dados\git\paulpere_codo1\paulpere_codo\Logica_oper\ex03\obj\Debug\net6.0\ex03.csproj.CoreCompileInputs.cache

@@ -1,0 +1,15 @@
+C:\dados\git\paulpere_codo1\paulpere_codo\Logica_oper\ex_04\obj\Debug\net6.0\ex_04.csproj.AssemblyReference.cache
+C:\dados\git\paulpere_codo1\paulpere_codo\Logica_oper\ex_04\obj\Debug\net6.0\ex_04.GeneratedMSBuildEditorConfig.editorconfig
+C:\dados\git\paulpere_codo1\paulpere_codo\Logica_oper\ex_04\obj\Debug\net6.0\ex_04.AssemblyInfoInputs.cache
+C:\dados\git\paulpere_codo1\paulpere_codo\Logica_oper\ex_04\obj\Debug\net6.0\ex_04.AssemblyInfo.cs
+C:\dados\git\paulpere_codo1\paulpere_codo\Logica_oper\ex_04\obj\Debug\net6.0\ex_04.csproj.CoreCompileInputs.cache
+C:\dados\git\paulpere_codo1\paulpere_codo\Logica_oper\ex_04\bin\Debug\net6.0\ex_04.exe
+C:\dados\git\paulpere_codo1\paulpere_codo\Logica_oper\ex_04\bin\Debug\net6.0\ex_04.deps.json
+C:\dados\git\paulpere_codo1\paulpere_codo\Logica_oper\ex_04\bin\Debug\net6.0\ex_04.runtimeconfig.json
+C:\dados\git\paulpere_codo1\paulpere_codo\Logica_oper\ex_04\bin\Debug\net6.0\ex_04.dll
+C:\dados\git\paulpere_codo1\paulpere_codo\Logica_oper\ex_04\bin\Debug\net6.0\ex_04.pdb
+C:\dados\git\paulpere_codo1\paulpere_codo\Logica_oper\ex_04\obj\Debug\net6.0\ex_04.dll
+C:\dados\git\paulpere_codo1\paulpere_codo\Logica_oper\ex_04\obj\Debug\net6.0\refint\ex_04.dll
+C:\dados\git\paulpere_codo1\paulpere_codo\Logica_oper\ex_04\obj\Debug\net6.0\ex_04.pdb
+C:\dados\git\paulpere_codo1\paulpere_codo\Logica_oper\ex_04\obj\Debug\net6.0\ex_04.genruntimeconfig.cache
+C:\dados\git\paulpere_codo1\paulpere_codo\Logica_oper\ex_04\obj\Debug\net6.0\ref\ex_04.dll
