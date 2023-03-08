@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <form action="https://www.google.com.br/search">
+      Qual seu nome <br />
+      <input type="text" name="q" required autocomplete="off" />
+      <hr />
+      Qual seu email?<br />
+      <input type="email" name="email" />
+      <hr />
+      Qual seu sexo <br />
+      <input type="radio" name="sexo" value="masculino" /> masculino <br />
+      <input type="radio" name="sexo" value="feminino" /> feminino
+      <hr />
+      Fale sobre você<br />
+      <textarea name="fale_sobre_voce" cols="30" rows="10"> </textarea>
+      <hr />
+      Quais frutas você gosta? <br />
+      <input type="checkbox" name="fruta" value="laranja" />laranja <br />
+      <input type="checkbox" name="fruta" value="maçã" />maçã <br />
+      <input type="checkbox" name="fruta" value="uva" />uva
+      <hr />
+      Qual seu estado civil?<br />
+      <select name="estado_civil">
+        <option value="Solteiro">Solteiro</option>
+        <option value="Casado">Casado</option>
+        <option value="Divorciado">Divorciado</option>
+        <option value="Viúvo">Viúvo</option>
+      </select>
+      <hr />
+      Defina sua senha <br />
+      <input type="password" name="senha" /> <br /><br />
+      <input type="submit" value="Enviar" />
+      <input type="reset" value="Limpar" />
+    </form>
+  </body>
+</html>
