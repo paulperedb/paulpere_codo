@@ -1,20 +1,20 @@
 ﻿Console.WriteLine("Qual a hora");
-int hora=int.Parse(Console.ReadLine());
+double hora=double.Parse(Console.ReadLine());
 
-if (hora >= 18 && hora<=24 )
+if (hora > 18 && hora<=24 )
 {
     Console.WriteLine("Nesse horário " + hora.ToString()+ " horas dizemos 'Boa noite'");
 }
 
 else
 {
-    if (hora > 12 && hora < 18)
+    if (hora > 12 && hora <= 18)
     {
         Console.WriteLine("Nesse horário " + hora.ToString() + " horas dizemos 'Boa tarde'");
     }
     else
     {
-        if (hora >= 1 && hora <= 12)
+        if (hora >= 0 && hora <= 12)
         {
             Console.WriteLine("Nesse horário " + hora.ToString() + " horas dizemos 'Bom dia'");
         }
