@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dados\\git\\paulpere_codo1\\paulpere_codo\\Logica_oper\\ex_04\\ex_04.csproj",
+      "projectUniqueName": "C:\\dados\\git\\paulpere_codo\\Logica_oper\\ex_04\\ex_04.csproj",
       "projectName": "ex_04",
-      "projectPath": "C:\\dados\\git\\paulpere_codo1\\paulpere_codo\\Logica_oper\\ex_04\\ex_04.csproj",
+      "projectPath": "C:\\dados\\git\\paulpere_codo\\Logica_oper\\ex_04\\ex_04.csproj",
       "packagesPath": "C:\\Users\\paulo\\.nuget\\packages\\",
-      "outputPath": "C:\\dados\\git\\paulpere_codo1\\paulpere_codo\\Logica_oper\\ex_04\\obj\\",
+      "outputPath": "C:\\dados\\git\\paulpere_codo\\Logica_oper\\ex_04\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\paulo\\AppData\\Roaming\\NuGet\\NuGet.Config",

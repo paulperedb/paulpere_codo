@@ -1,0 +1,15 @@
+C:\dados\git\paulpere_codo\Logica_oper\Condit_1\bin\Release\net6.0\Condit_1.exe
+C:\dados\git\paulpere_codo\Logica_oper\Condit_1\bin\Release\net6.0\Condit_1.deps.json
+C:\dados\git\paulpere_codo\Logica_oper\Condit_1\bin\Release\net6.0\Condit_1.runtimeconfig.json
+C:\dados\git\paulpere_codo\Logica_oper\Condit_1\bin\Release\net6.0\Condit_1.dll
+C:\dados\git\paulpere_codo\Logica_oper\Condit_1\bin\Release\net6.0\Condit_1.pdb
+C:\dados\git\paulpere_codo\Logica_oper\Condit_1\obj\Release\net6.0\Condit_1.csproj.AssemblyReference.cache
+C:\dados\git\paulpere_codo\Logica_oper\Condit_1\obj\Release\net6.0\Condit_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\dados\git\paulpere_codo\Logica_oper\Condit_1\obj\Release\net6.0\Condit_1.AssemblyInfoInputs.cache
+C:\dados\git\paulpere_codo\Logica_oper\Condit_1\obj\Release\net6.0\Condit_1.AssemblyInfo.cs
+C:\dados\git\paulpere_codo\Logica_oper\Condit_1\obj\Release\net6.0\Condit_1.csproj.CoreCompileInputs.cache
+C:\dados\git\paulpere_codo\Logica_oper\Condit_1\obj\Release\net6.0\Condit_1.dll
+C:\dados\git\paulpere_codo\Logica_oper\Condit_1\obj\Release\net6.0\refint\Condit_1.dll
+C:\dados\git\paulpere_codo\Logica_oper\Condit_1\obj\Release\net6.0\Condit_1.pdb
+C:\dados\git\paulpere_codo\Logica_oper\Condit_1\obj\Release\net6.0\Condit_1.genruntimeconfig.cache
+C:\dados\git\paulpere_codo\Logica_oper\Condit_1\obj\Release\net6.0\ref\Condit_1.dll
