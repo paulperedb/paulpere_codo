@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dados\\git\\paulpere_codo\\API1\\API1\\API1.csproj": {}
+    "C:\\dados\\git\\paulpere_codo\\Api1\\API1\\API1.csproj": {}
   },
   "projects": {
-    "C:\\dados\\git\\paulpere_codo\\API1\\API1\\API1.csproj": {
+    "C:\\dados\\git\\paulpere_codo\\Api1\\API1\\API1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dados\\git\\paulpere_codo\\API1\\API1\\API1.csproj",
+        "projectUniqueName": "C:\\dados\\git\\paulpere_codo\\Api1\\API1\\API1.csproj",
         "projectName": "API1",
-        "projectPath": "C:\\dados\\git\\paulpere_codo\\API1\\API1\\API1.csproj",
+        "projectPath": "C:\\dados\\git\\paulpere_codo\\Api1\\API1\\API1.csproj",
         "packagesPath": "C:\\Users\\paulo\\.nuget\\packages\\",
-        "outputPath": "C:\\dados\\git\\paulpere_codo\\API1\\API1\\obj\\",
+        "outputPath": "C:\\dados\\git\\paulpere_codo\\Api1\\API1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\paulo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -62,7 +62,7 @@
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
-              "version": "[6.0.12, )"
+              "version": "[6.0.13, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
@@ -88,7 +88,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
