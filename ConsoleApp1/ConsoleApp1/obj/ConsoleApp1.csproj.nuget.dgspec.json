@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dados\\git\\paulpere_codo1\\paulpere_codo\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "C:\\dados\\git\\paulpere_codo\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "C:\\dados\\git\\paulpere_codo1\\paulpere_codo\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "C:\\dados\\git\\paulpere_codo\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dados\\git\\paulpere_codo1\\paulpere_codo\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\dados\\git\\paulpere_codo\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "C:\\dados\\git\\paulpere_codo1\\paulpere_codo\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectPath": "C:\\dados\\git\\paulpere_codo\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\paulo\\.nuget\\packages\\",
-        "outputPath": "C:\\dados\\git\\paulpere_codo1\\paulpere_codo\\ConsoleApp1\\ConsoleApp1\\obj\\",
+        "outputPath": "C:\\dados\\git\\paulpere_codo\\ConsoleApp1\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\paulo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
