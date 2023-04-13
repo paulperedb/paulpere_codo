@@ -1,0 +1,15 @@
+C:\dados\git\paulpere_codo\Exerc_operadores\Exerc_operadores\obj\Debug\net6.0\Exerc_operadores.csproj.AssemblyReference.cache
+C:\dados\git\paulpere_codo\Exerc_operadores\Exerc_operadores\obj\Debug\net6.0\Exerc_operadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\dados\git\paulpere_codo\Exerc_operadores\Exerc_operadores\obj\Debug\net6.0\Exerc_operadores.AssemblyInfoInputs.cache
+C:\dados\git\paulpere_codo\Exerc_operadores\Exerc_operadores\obj\Debug\net6.0\Exerc_operadores.AssemblyInfo.cs
+C:\dados\git\paulpere_codo\Exerc_operadores\Exerc_operadores\obj\Debug\net6.0\Exerc_operadores.csproj.CoreCompileInputs.cache
+C:\dados\git\paulpere_codo\Exerc_operadores\Exerc_operadores\bin\Debug\net6.0\Exerc_operadores.exe
+C:\dados\git\paulpere_codo\Exerc_operadores\Exerc_operadores\bin\Debug\net6.0\Exerc_operadores.deps.json
+C:\dados\git\paulpere_codo\Exerc_operadores\Exerc_operadores\bin\Debug\net6.0\Exerc_operadores.runtimeconfig.json
+C:\dados\git\paulpere_codo\Exerc_operadores\Exerc_operadores\bin\Debug\net6.0\Exerc_operadores.dll
+C:\dados\git\paulpere_codo\Exerc_operadores\Exerc_operadores\bin\Debug\net6.0\Exerc_operadores.pdb
+C:\dados\git\paulpere_codo\Exerc_operadores\Exerc_operadores\obj\Debug\net6.0\Exerc_operadores.dll
+C:\dados\git\paulpere_codo\Exerc_operadores\Exerc_operadores\obj\Debug\net6.0\refint\Exerc_operadores.dll
+C:\dados\git\paulpere_codo\Exerc_operadores\Exerc_operadores\obj\Debug\net6.0\Exerc_operadores.pdb
+C:\dados\git\paulpere_codo\Exerc_operadores\Exerc_operadores\obj\Debug\net6.0\Exerc_operadores.genruntimeconfig.cache
+C:\dados\git\paulpere_codo\Exerc_operadores\Exerc_operadores\obj\Debug\net6.0\ref\Exerc_operadores.dll
