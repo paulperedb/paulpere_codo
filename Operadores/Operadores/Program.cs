@@ -19,7 +19,7 @@ Console.ReadKey();*/
 
 //AUMENTO DE SALÁRIO POR SEXO, IDADE E NIVEL DE SALÁRIO
 
-/*
+
 Console.WriteLine("Idade/sexo/salário");
 int idade = int.Parse(Console.ReadLine());
 string sexo = Console.ReadLine().ToUpper();
@@ -34,20 +34,20 @@ if ((sexo == "M") && idade > 30 || salario < 50)
 {
     salario = salario * 1.1;
 }
-if ((sexo == "F") && idade > 20 || salario < 100)
+else if ((sexo == "F") && idade > 20 || salario < 100)
 {
     salario = salario * 1.5;
 }
 Console.WriteLine(salario);
 Console.ReadKey();
-*/
+
 
 //INVERSÃO DA IDENTIFICAÇÃO DO SEXO
 
-Console.WriteLine("Digite o seu sexo");
+/*Console.WriteLine("Digite o seu sexo");
 String sexo = Console.ReadLine().ToUpper();
 if (!(sexo =="M"))
-{ Console.WriteLine("Você é homem"); }
+{ Console.WriteLine("Você é homem"); }*/
 
 
 
