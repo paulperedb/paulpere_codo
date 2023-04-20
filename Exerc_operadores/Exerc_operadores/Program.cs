@@ -41,8 +41,14 @@ bool borda = Console.ReadLine().ToUpper()=="SIM"; //VERDADE
 double pizzaValor = 10;
 double pizzaAcrescimo = 2;
 double pedidoTot = 0;
-if (borda)
-{ pizzaValor = pizzaValor + pizzaAcrescimo; }
-pedidoTot= pizzaValor*quant;
-Console.WriteLine("O seu pedido foi completado com  "+quant+" pizza(s) de "+sabor +" pelo valor total de R$"+ pedidoTot);
+pedidoTot = pizzaValor * (double)quant;
+if (!borda)
+{
+    Console.WriteLine("O seu pedido foi completado com  " + quant + " pizza(s) de " + sabor + " \"sem bordas recheadas\" pelo valor total de R$" + pedidoTot);
+}
+else
+{
+    pedidoTot = (pizzaValor + pizzaAcrescimo) * (double)quant;
+    Console.WriteLine("O seu pedido foi completado com  " + quant + " pizza(s) de " + sabor + " \"com bordas recheadas\" pelo valor total de R$" + pedidoTot);
+}
 Console.ReadKey();
