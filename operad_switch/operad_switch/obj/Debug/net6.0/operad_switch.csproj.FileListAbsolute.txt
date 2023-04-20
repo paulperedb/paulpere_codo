@@ -1,0 +1,15 @@
+C:\dados\git\paulpere_codo\operad_switch\operad_switch\bin\Debug\net6.0\operad_switch.exe
+C:\dados\git\paulpere_codo\operad_switch\operad_switch\bin\Debug\net6.0\operad_switch.deps.json
+C:\dados\git\paulpere_codo\operad_switch\operad_switch\bin\Debug\net6.0\operad_switch.runtimeconfig.json
+C:\dados\git\paulpere_codo\operad_switch\operad_switch\bin\Debug\net6.0\operad_switch.dll
+C:\dados\git\paulpere_codo\operad_switch\operad_switch\bin\Debug\net6.0\operad_switch.pdb
+C:\dados\git\paulpere_codo\operad_switch\operad_switch\obj\Debug\net6.0\operad_switch.csproj.AssemblyReference.cache
+C:\dados\git\paulpere_codo\operad_switch\operad_switch\obj\Debug\net6.0\operad_switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\dados\git\paulpere_codo\operad_switch\operad_switch\obj\Debug\net6.0\operad_switch.AssemblyInfoInputs.cache
+C:\dados\git\paulpere_codo\operad_switch\operad_switch\obj\Debug\net6.0\operad_switch.AssemblyInfo.cs
+C:\dados\git\paulpere_codo\operad_switch\operad_switch\obj\Debug\net6.0\operad_switch.csproj.CoreCompileInputs.cache
+C:\dados\git\paulpere_codo\operad_switch\operad_switch\obj\Debug\net6.0\operad_switch.dll
+C:\dados\git\paulpere_codo\operad_switch\operad_switch\obj\Debug\net6.0\refint\operad_switch.dll
+C:\dados\git\paulpere_codo\operad_switch\operad_switch\obj\Debug\net6.0\operad_switch.pdb
+C:\dados\git\paulpere_codo\operad_switch\operad_switch\obj\Debug\net6.0\operad_switch.genruntimeconfig.cache
+C:\dados\git\paulpere_codo\operad_switch\operad_switch\obj\Debug\net6.0\ref\operad_switch.dll
