@@ -1,0 +1,15 @@
+C:\dados\git\paulpere_codo\Operadores_While\Operadores_While\bin\Debug\net6.0\Operadores_While.exe
+C:\dados\git\paulpere_codo\Operadores_While\Operadores_While\bin\Debug\net6.0\Operadores_While.deps.json
+C:\dados\git\paulpere_codo\Operadores_While\Operadores_While\bin\Debug\net6.0\Operadores_While.runtimeconfig.json
+C:\dados\git\paulpere_codo\Operadores_While\Operadores_While\bin\Debug\net6.0\Operadores_While.dll
+C:\dados\git\paulpere_codo\Operadores_While\Operadores_While\bin\Debug\net6.0\Operadores_While.pdb
+C:\dados\git\paulpere_codo\Operadores_While\Operadores_While\obj\Debug\net6.0\Operadores_While.csproj.AssemblyReference.cache
+C:\dados\git\paulpere_codo\Operadores_While\Operadores_While\obj\Debug\net6.0\Operadores_While.GeneratedMSBuildEditorConfig.editorconfig
+C:\dados\git\paulpere_codo\Operadores_While\Operadores_While\obj\Debug\net6.0\Operadores_While.AssemblyInfoInputs.cache
+C:\dados\git\paulpere_codo\Operadores_While\Operadores_While\obj\Debug\net6.0\Operadores_While.AssemblyInfo.cs
+C:\dados\git\paulpere_codo\Operadores_While\Operadores_While\obj\Debug\net6.0\Operadores_While.csproj.CoreCompileInputs.cache
+C:\dados\git\paulpere_codo\Operadores_While\Operadores_While\obj\Debug\net6.0\Operadores_While.dll
+C:\dados\git\paulpere_codo\Operadores_While\Operadores_While\obj\Debug\net6.0\refint\Operadores_While.dll
+C:\dados\git\paulpere_codo\Operadores_While\Operadores_While\obj\Debug\net6.0\Operadores_While.pdb
+C:\dados\git\paulpere_codo\Operadores_While\Operadores_While\obj\Debug\net6.0\Operadores_While.genruntimeconfig.cache
+C:\dados\git\paulpere_codo\Operadores_While\Operadores_While\obj\Debug\net6.0\ref\Operadores_While.dll
