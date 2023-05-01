@@ -1,0 +1,15 @@
+C:\dados\git\paulpere_codo\ConsoleFor\ConsoleFor\obj\Debug\net6.0\ConsoleFor.csproj.AssemblyReference.cache
+C:\dados\git\paulpere_codo\ConsoleFor\ConsoleFor\obj\Debug\net6.0\ConsoleFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\dados\git\paulpere_codo\ConsoleFor\ConsoleFor\obj\Debug\net6.0\ConsoleFor.AssemblyInfoInputs.cache
+C:\dados\git\paulpere_codo\ConsoleFor\ConsoleFor\obj\Debug\net6.0\ConsoleFor.AssemblyInfo.cs
+C:\dados\git\paulpere_codo\ConsoleFor\ConsoleFor\obj\Debug\net6.0\ConsoleFor.csproj.CoreCompileInputs.cache
+C:\dados\git\paulpere_codo\ConsoleFor\ConsoleFor\bin\Debug\net6.0\ConsoleFor.exe
+C:\dados\git\paulpere_codo\ConsoleFor\ConsoleFor\bin\Debug\net6.0\ConsoleFor.deps.json
+C:\dados\git\paulpere_codo\ConsoleFor\ConsoleFor\bin\Debug\net6.0\ConsoleFor.runtimeconfig.json
+C:\dados\git\paulpere_codo\ConsoleFor\ConsoleFor\bin\Debug\net6.0\ConsoleFor.dll
+C:\dados\git\paulpere_codo\ConsoleFor\ConsoleFor\bin\Debug\net6.0\ConsoleFor.pdb
+C:\dados\git\paulpere_codo\ConsoleFor\ConsoleFor\obj\Debug\net6.0\ConsoleFor.dll
+C:\dados\git\paulpere_codo\ConsoleFor\ConsoleFor\obj\Debug\net6.0\refint\ConsoleFor.dll
+C:\dados\git\paulpere_codo\ConsoleFor\ConsoleFor\obj\Debug\net6.0\ConsoleFor.pdb
+C:\dados\git\paulpere_codo\ConsoleFor\ConsoleFor\obj\Debug\net6.0\ConsoleFor.genruntimeconfig.cache
+C:\dados\git\paulpere_codo\ConsoleFor\ConsoleFor\obj\Debug\net6.0\ref\ConsoleFor.dll
