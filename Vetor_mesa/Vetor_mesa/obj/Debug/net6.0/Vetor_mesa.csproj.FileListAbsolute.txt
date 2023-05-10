@@ -1,0 +1,15 @@
+C:\dados\git\paulpere_codo\Vetor_mesa\Vetor_mesa\bin\Debug\net6.0\Vetor_mesa.exe
+C:\dados\git\paulpere_codo\Vetor_mesa\Vetor_mesa\bin\Debug\net6.0\Vetor_mesa.deps.json
+C:\dados\git\paulpere_codo\Vetor_mesa\Vetor_mesa\bin\Debug\net6.0\Vetor_mesa.runtimeconfig.json
+C:\dados\git\paulpere_codo\Vetor_mesa\Vetor_mesa\bin\Debug\net6.0\Vetor_mesa.dll
+C:\dados\git\paulpere_codo\Vetor_mesa\Vetor_mesa\bin\Debug\net6.0\Vetor_mesa.pdb
+C:\dados\git\paulpere_codo\Vetor_mesa\Vetor_mesa\obj\Debug\net6.0\Vetor_mesa.csproj.AssemblyReference.cache
+C:\dados\git\paulpere_codo\Vetor_mesa\Vetor_mesa\obj\Debug\net6.0\Vetor_mesa.GeneratedMSBuildEditorConfig.editorconfig
+C:\dados\git\paulpere_codo\Vetor_mesa\Vetor_mesa\obj\Debug\net6.0\Vetor_mesa.AssemblyInfoInputs.cache
+C:\dados\git\paulpere_codo\Vetor_mesa\Vetor_mesa\obj\Debug\net6.0\Vetor_mesa.AssemblyInfo.cs
+C:\dados\git\paulpere_codo\Vetor_mesa\Vetor_mesa\obj\Debug\net6.0\Vetor_mesa.csproj.CoreCompileInputs.cache
+C:\dados\git\paulpere_codo\Vetor_mesa\Vetor_mesa\obj\Debug\net6.0\Vetor_mesa.dll
+C:\dados\git\paulpere_codo\Vetor_mesa\Vetor_mesa\obj\Debug\net6.0\refint\Vetor_mesa.dll
+C:\dados\git\paulpere_codo\Vetor_mesa\Vetor_mesa\obj\Debug\net6.0\Vetor_mesa.pdb
+C:\dados\git\paulpere_codo\Vetor_mesa\Vetor_mesa\obj\Debug\net6.0\Vetor_mesa.genruntimeconfig.cache
+C:\dados\git\paulpere_codo\Vetor_mesa\Vetor_mesa\obj\Debug\net6.0\ref\Vetor_mesa.dll
