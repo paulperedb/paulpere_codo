@@ -1,0 +1,15 @@
+C:\dados\git\paulpere_codo\Vetor_loop\Vetor_loop\bin\Debug\net6.0\Vetor_loop.exe
+C:\dados\git\paulpere_codo\Vetor_loop\Vetor_loop\bin\Debug\net6.0\Vetor_loop.deps.json
+C:\dados\git\paulpere_codo\Vetor_loop\Vetor_loop\bin\Debug\net6.0\Vetor_loop.runtimeconfig.json
+C:\dados\git\paulpere_codo\Vetor_loop\Vetor_loop\bin\Debug\net6.0\Vetor_loop.dll
+C:\dados\git\paulpere_codo\Vetor_loop\Vetor_loop\bin\Debug\net6.0\Vetor_loop.pdb
+C:\dados\git\paulpere_codo\Vetor_loop\Vetor_loop\obj\Debug\net6.0\Vetor_loop.csproj.AssemblyReference.cache
+C:\dados\git\paulpere_codo\Vetor_loop\Vetor_loop\obj\Debug\net6.0\Vetor_loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\dados\git\paulpere_codo\Vetor_loop\Vetor_loop\obj\Debug\net6.0\Vetor_loop.AssemblyInfoInputs.cache
+C:\dados\git\paulpere_codo\Vetor_loop\Vetor_loop\obj\Debug\net6.0\Vetor_loop.AssemblyInfo.cs
+C:\dados\git\paulpere_codo\Vetor_loop\Vetor_loop\obj\Debug\net6.0\Vetor_loop.csproj.CoreCompileInputs.cache
+C:\dados\git\paulpere_codo\Vetor_loop\Vetor_loop\obj\Debug\net6.0\Vetor_loop.dll
+C:\dados\git\paulpere_codo\Vetor_loop\Vetor_loop\obj\Debug\net6.0\refint\Vetor_loop.dll
+C:\dados\git\paulpere_codo\Vetor_loop\Vetor_loop\obj\Debug\net6.0\Vetor_loop.pdb
+C:\dados\git\paulpere_codo\Vetor_loop\Vetor_loop\obj\Debug\net6.0\Vetor_loop.genruntimeconfig.cache
+C:\dados\git\paulpere_codo\Vetor_loop\Vetor_loop\obj\Debug\net6.0\ref\Vetor_loop.dll
