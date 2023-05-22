@@ -1,0 +1,15 @@
+C:\dados\git\paulpere_codo\Vetores_GrDispl\Vetores_GrDispl\bin\Debug\net6.0\Vetores_GrDispl.exe
+C:\dados\git\paulpere_codo\Vetores_GrDispl\Vetores_GrDispl\bin\Debug\net6.0\Vetores_GrDispl.deps.json
+C:\dados\git\paulpere_codo\Vetores_GrDispl\Vetores_GrDispl\bin\Debug\net6.0\Vetores_GrDispl.runtimeconfig.json
+C:\dados\git\paulpere_codo\Vetores_GrDispl\Vetores_GrDispl\bin\Debug\net6.0\Vetores_GrDispl.dll
+C:\dados\git\paulpere_codo\Vetores_GrDispl\Vetores_GrDispl\bin\Debug\net6.0\Vetores_GrDispl.pdb
+C:\dados\git\paulpere_codo\Vetores_GrDispl\Vetores_GrDispl\obj\Debug\net6.0\Vetores_GrDispl.csproj.AssemblyReference.cache
+C:\dados\git\paulpere_codo\Vetores_GrDispl\Vetores_GrDispl\obj\Debug\net6.0\Vetores_GrDispl.GeneratedMSBuildEditorConfig.editorconfig
+C:\dados\git\paulpere_codo\Vetores_GrDispl\Vetores_GrDispl\obj\Debug\net6.0\Vetores_GrDispl.AssemblyInfoInputs.cache
+C:\dados\git\paulpere_codo\Vetores_GrDispl\Vetores_GrDispl\obj\Debug\net6.0\Vetores_GrDispl.AssemblyInfo.cs
+C:\dados\git\paulpere_codo\Vetores_GrDispl\Vetores_GrDispl\obj\Debug\net6.0\Vetores_GrDispl.csproj.CoreCompileInputs.cache
+C:\dados\git\paulpere_codo\Vetores_GrDispl\Vetores_GrDispl\obj\Debug\net6.0\Vetores_GrDispl.dll
+C:\dados\git\paulpere_codo\Vetores_GrDispl\Vetores_GrDispl\obj\Debug\net6.0\refint\Vetores_GrDispl.dll
+C:\dados\git\paulpere_codo\Vetores_GrDispl\Vetores_GrDispl\obj\Debug\net6.0\Vetores_GrDispl.pdb
+C:\dados\git\paulpere_codo\Vetores_GrDispl\Vetores_GrDispl\obj\Debug\net6.0\Vetores_GrDispl.genruntimeconfig.cache
+C:\dados\git\paulpere_codo\Vetores_GrDispl\Vetores_GrDispl\obj\Debug\net6.0\ref\Vetores_GrDispl.dll

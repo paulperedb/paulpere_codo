@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Vetores_GrDispl/1.0.0": {
+        "runtime": {
+          "Vetores_GrDispl.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Vetores_GrDispl/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
