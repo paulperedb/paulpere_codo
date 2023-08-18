@@ -10,7 +10,7 @@ using API1.Models;
 
 namespace API1.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("<<api/[controller]>>")]
     [ApiController]
     public class BrandsController : ControllerBase
     {
@@ -29,7 +29,7 @@ namespace API1.Controllers
         }
 
         // GET: api/Brands/5
-        [HttpGet("{id}")]
+        [HttpGet("{id} Primary ")]
         public async Task<ActionResult<Brand>> GetBrand(int id)
         {
             var brand = await _context.Brands.FindAsync(id);
