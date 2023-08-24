@@ -1,4 +1,4 @@
-﻿//VERSÃO COM CONVERSÃO PARA RECONHECIMENTO DO '.' DECIMAL NO CSV
+﻿//CSV Importer - Com atualização de novos registros e data das atualizações
 
 using System;
 using System.Collections.Generic;
