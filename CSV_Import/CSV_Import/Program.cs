@@ -60,7 +60,7 @@ public class CsvImporter
         Thread.CurrentThread.CurrentCulture = culture;
 
         List<CsvData> csvDataList = new List<CsvData>();
-
+        
         using (TextFieldParser parser = new TextFieldParser(filePath))
         {
             parser.TextFieldType = FieldType.Delimited;
@@ -68,6 +68,7 @@ public class CsvImporter
 
             parser.ReadLine();
 
+            int lineCount = 0;
             while (!parser.EndOfData)
             {
                 string[] fields = parser.ReadFields();
@@ -94,15 +95,29 @@ public class CsvImporter
                     Order_Number = fields[17]
                 };
 
+               //foreach (string field in fields)
+                //{ Console.WriteLine(data.Date); }
+                
+                
                 csvDataList.Add(data);
-            }
+                
+                /*lineCount++;
 
+                if (lineCount % 20 == 0)
+                {
+                    Console.WriteLine("Pressione Enter para continuar...");
+                    Console.ReadLine();
+                }*/
+
+            }
+        
         }
 
 
         // Restaurar a cultura original
         Thread.CurrentThread.CurrentCulture = originalCulture;
-
+        //Console.ReadKey();
+        
         return csvDataList;
     }
 
@@ -135,7 +150,7 @@ public class CsvImporter
 
                 DateTime parsedDate = DateTime.ParseExact(dateString, "yyyy-MM-ddTHH:mm:ss", CultureInfo.InvariantCulture);
 
-                // Depuração do valor do Strike_Price antes de tentar converter para decimal
+                /*// Depuração do valor do Strike_Price antes de tentar converter para decimal
                 Console.WriteLine("Valor do Date antes da conversão: " + parsedDate);
                 Console.WriteLine("Valor do Type antes da conversão: " + data.Type);
                 Console.WriteLine("Valor do Value antes da conversão: " + data.Value);
@@ -144,10 +159,10 @@ public class CsvImporter
                 Console.WriteLine("Valor do Fees antes da conversão: " + data.Fees);
                 Console.WriteLine("Valor do Fees Root_Symbol da conversão: " + data.Root_Symbol);
                 Console.WriteLine("Valor do Expiration_date antes da conversão: " + data.Expiration_Date);
-                Console.WriteLine("Valor do Strike_Price antes da conversão: " + data.Strike_Price);
+                Console.WriteLine("Valor do Strike_Price antes da conversão: " + data.Strike_Price);*/
 
                 string insertQuery = @"
-                INSERT INTO trades (Date,
+                INSERT INTO trades_t (Date,
                 Type, 
                 Action,
                 Value,
@@ -211,7 +226,7 @@ public class CsvImporter
         {
             connection.Open();
 
-            string countQuery = "SELECT COUNT(*) FROM trades";
+            string countQuery = "SELECT COUNT(*) FROM trades_t";
             using (SqlCommand command = new SqlCommand(countQuery, connection))
             {
                 int count = (int)command.ExecuteScalar();
@@ -219,6 +234,46 @@ public class CsvImporter
             }
         }
     }
+
+    public int UpdateTradesUsingTradesT(string connectionString)
+    {
+        int recordsUpdated = 0; // Inicializa o contador
+
+        using (SqlConnection connection = new SqlConnection(connectionString))
+        {
+            connection.Open();
+            
+            // Insira a lógica para verificar e inserir registros da tabela trades_t na tabela trades
+            string insertQuery = @"
+        INSERT INTO trades (Date, Type, Action, Value, Quantity, Comissions, Fees, Root_Symbol, Expiration_date, Strike_Price, Call_or_Put, Order_Number, Created_At)
+        SELECT
+            CAST(tt.Date AS DATETIME),
+            tt.Type,
+            tt.Action,
+            tt.Value,                
+            tt.Quantity,
+            tt.Comissions,
+            tt.Fees,
+            tt.Root_Symbol,
+            tt.Expiration_date,
+            tt.Strike_Price,
+            tt.Call_or_Put,
+            tt.Order_Number,
+            CONVERT(VARCHAR(19), GETDATE(), 120)
+        FROM trades_t tt
+        LEFT JOIN trades t ON tt.Date = t.Date
+        WHERE t.Date IS NULL;
+        ";
+
+            using (SqlCommand command = new SqlCommand(insertQuery, connection))
+            {                
+                recordsUpdated = command.ExecuteNonQuery(); // Armazena o número de registros atualizados
+            }
+        }
+
+        return recordsUpdated; // Retorna o número de registros atualizados
+    }
+
 
     public static void Main(string[] args)
     {
@@ -231,6 +286,7 @@ public class CsvImporter
             Console.WriteLine("O nome do arquivo não pode ser vazio.");
             return;
         }
+
 
         string filePath = "C:\\Users\\paulo\\Downloads\\" + arq + ".csv";
         string connectionString = "Initial Catalog=Ttrade; User ID=Paulo;Password=123pp; MultipleActiveResultSets=True;TrustServerCertificate=True";
@@ -251,7 +307,7 @@ public class CsvImporter
                 {
                     connection.Open();
 
-                    string deleteQuery = "DELETE FROM trades";
+                    string deleteQuery = "DELETE FROM trades_t";
                     using (SqlCommand command = new SqlCommand(deleteQuery, connection))
                     {
                         command.ExecuteNonQuery();
@@ -261,7 +317,7 @@ public class CsvImporter
             }
             else
             {
-                Console.WriteLine("A importação não foi realizada.");
+                Console.WriteLine("A importação do arquivo t não foi realizada.");
                 return;
             }
         }
@@ -269,7 +325,13 @@ public class CsvImporter
         // Chamar o método para importar o CSV para o banco de dados
         csvImporter.ImportCsvToSql(filePath, connectionString);
 
-        Console.WriteLine("Importação concluída!");
+        // Chamar o método para atualizar os campos da tabela trades usando trades_t
+         int recordsUpdated = csvImporter.UpdateTradesUsingTradesT(connectionString);
+
+        //DateTime currentTime = DateTime.Now;
+
+        Console.WriteLine($"Importação e atualização concluídas na tabela trades_t.");
+        Console.WriteLine($"{recordsUpdated} registros foram atualizados na tabela trades.");
     }
 
 }
